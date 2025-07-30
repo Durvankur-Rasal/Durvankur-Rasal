@@ -8,7 +8,7 @@ Vishwakarma Institute Of Information Technology, Pune (2022–2026)
 
 ## 💼 Current Role
 **Software Developer Intern** at 5Tech G (June 2024 – Present)  
-- Built full-stack modules using **React.js** & **Node.js** for Brother’s Industries.  
+- Built full-stack modules using **React.js** & **Node.js** for adoniTech Industries.  
 - Containerized apps with **Docker** and deployed on **AWS EC2** for scalable cloud access.
 
 ---
